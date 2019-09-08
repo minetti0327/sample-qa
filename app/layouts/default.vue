@@ -68,8 +68,6 @@ export default {
     },
     userName() {
       // storeからのユーザーネーム取得処理
-      console.log(this.$store.getters.user);
-
       return this.$store.getters.user ? this.$store.getters.user.name : "";
     }
   },
