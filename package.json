@@ -1,0 +1,21 @@
+{
+  "name": "qaSample",
+  "version": "1.0.0",
+  "description": "My geometric Nuxt.js project",
+  "author": "sample",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/bulma": "^1.2.1",
+    "firebase": "^6.6.0",
+    "moment": "^2.24.0",
+    "nuxt": "^2.0.0",
+    "vee-validate": "^2.2.15"
+  },
+  "devDependencies": {}
+}
