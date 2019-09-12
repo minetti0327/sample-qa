@@ -1,22 +1,12 @@
 # qaSample
 
-> My geometric Nuxt.js project
+技術書典にて販売する「Nuxt & Firebaseではじめる！サーバーレスWebアプリ開発入門」の共有向けリポジトリです。
 
-## Build Setup
+## 実行に関して
 
-``` bash
-# install dependencies
-$ npm run install
+コードの説明、実行手順などは書籍を参考にお願いいたします。
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+## 免責事項
 
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+本書に記載された内容は、情報の提供のみを目的としています。したがって、本書を用いた開発、製作、運用は、必ずご自身の責任と判断によって行ってください。
+これらの情報による開発、製作、運用の結果について、著者はいかなる責任も負いません。
