@@ -16,7 +16,7 @@
     "firebase-functions": "^3.1.0",
     "firebase": "^6.6.0",
     "moment": "^2.24.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vee-validate": "^2.2.15",
     "express": "^4.17.1"
   },
